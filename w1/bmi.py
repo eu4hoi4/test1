@@ -1,5 +1,5 @@
-h=int(input("请输入你的身高"))
-w=int(input("请输入你的体重"))
+h=float(input("请输入你的身高"))
+w=float(input("请输入你的体重"))
 bmi=w/(h*h)
 if bmi<18.5:
     print("偏瘦")
