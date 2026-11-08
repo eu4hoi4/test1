@@ -13,9 +13,10 @@
 | bmi.py | 计算 BMI 并分类 | python bmi.py |
 
 ## 运行方法
-1. 打开终端，进入 w1 目录
-2. 激活虚拟环境：..\.venv\Scripts\Activate.ps1
+1. 打开 PyCharm 底部的 Terminal（Alt+F12）
+2. 进入 w1 目录：cd w1
 3. 运行：python hello.py
+（如果终端前面没有 (.venv)，先在项目根目录执行 .\.venv\Scripts\activate）
 
 ## 每日记录
 ### 11/09 周一
