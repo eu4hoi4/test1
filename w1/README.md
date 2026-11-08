@@ -1,7 +1,7 @@
 # W1 练习（2026-11-09 ~ 11-15）
 
 ## 本周目标
-- 跑通 Python + venv + VS Code
+- 跑通 Python + venv + Pycharm
 - 完成 hello、温度转换、BMI 三个程序
 - 完成第一次 Git 提交
 
