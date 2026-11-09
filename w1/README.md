@@ -17,6 +17,7 @@
 | grade.py | 成绩等级判定 | python grade.py |
 | leap_year.py | 闰年判断 | python leap_year.py |
 | guess_number.py | 猜数字游戏 | python guess_number.py |
+
 ## 运行方法
 1. 打开 PyCharm 底部的 Terminal（Alt+F12）
 2. 进入 w1 目录：cd w1
@@ -41,11 +42,3 @@
 - 卡点：闰年 1900 一开始判断错了
 - 解决：先判断能不能被 400 整除，再判断 100
 - 用时：0.5 小时
-## 还不懂
-- if __name__ == "__main__" 是什么意思
-- 解释：只有当我直接运行这个文件时，才执行 main()；如果我是被别的文件 import 的，就不执行。
-- git add 和 git commit 的区别
-- 解释：git add：把工作区的改动放入暂存区（staging area）——"我要提交这些文件"；git commit：把暂存区的内容正式记录到仓库历史——"生成一个版本快照"。
-
-## 明日计划
-- 学变量与类型；写温度、BMI、圆面积三个小程序
