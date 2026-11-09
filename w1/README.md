@@ -1,7 +1,7 @@
 # W1 练习（2026-11-09 ~ 11-15）
 
 ## 本周目标
-- Python 安装与 PATH、VS Code + Python 扩展、venv 虚拟环境；
+- Python 安装与 PATH、PyCharm + Python 扩展、venv 虚拟环境；
 - 变量、数据类型、条件判断、while/for 循环、函数定义与参数；
 - Git 安装与 init/add/commit/log。
 
