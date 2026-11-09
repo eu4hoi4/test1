@@ -6,3 +6,5 @@ bool 布尔 true/false 真假
 1.input 输入的是字符串，如果要变成数，就要用int()/float()
 
 2.f-string就是f"XXX{string}XXXX"的形式，大括号里可以放变量和表达式，:.2f 表示保留两位小数。
+
+3.bool("0") 是 True，因为 "0" 是非空字符串；bool(0) 才是 False。
