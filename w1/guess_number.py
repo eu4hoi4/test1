@@ -1,5 +1,5 @@
 cnt=0
-while(cnt<=5):
+while(cnt<5):
     a = int(input("请输入一个数"))
     if(a<42):
         print("小了")
