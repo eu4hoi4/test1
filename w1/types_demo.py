@@ -1,0 +1,12 @@
+print("1 的类型：", type(1))
+print("1.0 的类型：", type(1.0))
+print("'1' 的类型：", type("1"))
+print("True 的类型：", type(True))
+
+print("int('18') + 1 =", int("18") + 1)
+print("float('1.75') * 2 =", float("1.75") * 2)
+print("str(18) + '岁' =", str(18) + "岁")
+print("bool('') =", bool(""))
+print("bool('0') =", bool("0"))
+print("bool(0) =", bool(0))
+print("bool(1) =", bool(1))
